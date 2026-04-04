@@ -4,14 +4,16 @@ I am a **Full Stack Engineer** based in Pune, specialized in building robust dat
 
 ---
 
-##  Featured Project: Curiosity
-**Curiosity** is an advanced **Agentic AI** framework designed to bridge the gap between natural language and structured relational data. It utilizes autonomous reasoning to explore, understand, and query complex databases.
+## 🧠 Enterprise Text-to-SQL System (Curiosity)
+An advanced Retrieval-Augmented Generation (RAG) framework designed to bridge the gap between natural language and structured relational data.
 
-- **Tech Stack**: Java 21, Spring Boot, Python 3.12, LangGraph, PostgreSQL, and Docker.
+### [Curiosity](https://github.com/codeChinmay/curiosity-text-to-sql-db-explorer)
+A microservice-based Agentic AI system that utilizes autonomous reasoning and a RAG architecture to seamlessly translate natural language queries into executable SQL for complex databases.
+- **Tech Stack**: Java 21, Spring Boot, Python 3.12, LangGraph, PostgreSQL, RAG Architecture, Docker.
 
 ---
 
-##  The F1 Ecosystem (Pocket Pitwall)
+## 🏎️ The F1 Ecosystem (Pocket Pitwall)
 A real-time "Pit Wall" experience for the **M5Stack Cardputer**, bringing live F1 telemetry into the palm of your hand.
 
 ### [Pocket Pitwall](https://github.com/codeChinmay/pocket-pitwall)
@@ -39,5 +41,3 @@ The high-performance middleware that powers the handheld device by processing an
 - 🏎️ **Passions:** Formula 1, Motorsports.
 - 🧩 **Hobbies:** Solving Rubik's cubes and reverse-engineering smartwatches.
 - 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/chinmay-shiralkar-b60b29253/) | chinmayshiralkar777@gmail.com
-
----
